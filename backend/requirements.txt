@@ -13,7 +13,7 @@ PyYAML==6.0.3
 tzdata==2026.6
 
 # AI and transcription
-anthropic==2.8.0
+anthropic==2.11.0
 deepgram-sdk==7.19.0
 
 # Live microphone capture (imported by app.main via scripts/live_microphone.py)
