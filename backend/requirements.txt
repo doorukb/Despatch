@@ -2,7 +2,7 @@
 # Dev-only tools (ruff, pytest-cov, pip-audit) are installed by CI and `make setup`.
 
 # Web server (uvicorn[standard] brings in websockets for /ws/transcript)
-fastapi==0.163.1
+fastapi==0.165.0
 uvicorn[standard]==0.54.0
 
 # Data validation and configuration
