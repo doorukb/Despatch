@@ -6,7 +6,7 @@ fastapi==0.163.1
 uvicorn[standard]==0.54.0
 
 # Data validation and configuration
-pydantic==2.14.3
+pydantic==2.14.4
 python-dotenv==1.2.4
 PyYAML==6.0.3
 # IANA time zones for zoneinfo (Windows has no system tz database; pandas used to pull this in)
