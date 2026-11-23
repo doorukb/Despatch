@@ -1,5 +1,5 @@
 # Development and CI tools. Not needed to run the app.
 -r requirements.txt
 pytest-cov==7.1.0
-ruff==0.17.5
+ruff==0.17.6
 pip-audit==2.10.1
