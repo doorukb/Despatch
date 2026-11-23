@@ -21,7 +21,7 @@ sounddevice==0.5.6
 
 # Simulation
 simpy==4.1.2
-numpy==2.5.4
+numpy==2.5.5
 
 # Testing
 pytest==9.2.0
